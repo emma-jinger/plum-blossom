@@ -1,0 +1,3 @@
+# plum-blossom
+This program computes carpoling fee. 
+It uses ascii code to validate user input(one positive integer and one positive double).
